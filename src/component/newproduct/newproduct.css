@@ -1,0 +1,39 @@
+.form_container {
+  width: 10rem;
+  height: 40rem;
+}
+.container__n {
+  display: flex;
+  align-content: center;
+  justify-content: flex-start;
+}
+.block-1 {
+  height: 420px;
+  background: black;
+  color: blanchedalmond;
+  text-align: center;
+}
+h4 {
+  margin: auto;
+}
+.input_field {
+  display: block;
+  width: 40rem;
+  margin-bottom: 20px;
+  height: 2rem;
+  border: 1px solid grey;
+  text-align: left;
+  padding: 1rem;
+  text-transform: capitalize;
+}
+.price_field {
+  width: 20rem;
+}
+.input_text {
+  width: 40rem;
+  height: 4rem;
+}
+.input_radio {
+  width: 20rem;
+  font-size: 2rem;
+}
